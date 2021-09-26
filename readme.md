@@ -1,6 +1,14 @@
 # _Homicide Detective_
 _A Procedurally Generated Murder-Mystery Game_
 
+## This is an older build of Homicide Detective which has fundamental problems, and has gone through a major rewrite.
+
+[You may find that rewrite here.](https://github.com/fcheadle/HomicideDetective )
+
+___If you leave this game running too long, it is likely to crash your computer.___
+
+Original readme.md appears below:
+
 Investigate small-town murders. These homicides are procedurally generated from ranges given in the .json files^(Coming Soon). This readme also serves as the design document.
 
 [Subreddit](https://www.reddit.com/r/HomicideDetective )
